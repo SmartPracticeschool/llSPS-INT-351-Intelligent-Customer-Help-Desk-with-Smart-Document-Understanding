@@ -1,5 +1,5 @@
 
-llSPS-INT-439-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
+llSPS-INT-351-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 Intelligent Customer Help Desk with Smart Document Understanding
 
 This project is based on an internship provided by SmartInternz (smartinternz.com).
